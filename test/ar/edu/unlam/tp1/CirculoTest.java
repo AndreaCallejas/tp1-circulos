@@ -10,6 +10,9 @@ public class CirculoTest {
 	@Test
 	public void crearUnCirculoConRadio2() {
 		fail("Not yet implemented");
+		String cadena1 = new String();
+		cadena1 = "Hola";
+		assertEquals("Hola", cadena1);
 	}
 	
 	@Test
