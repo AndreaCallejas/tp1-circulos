@@ -10,7 +10,6 @@ public class CirculoTest {
 	@Test
 	public void crearUnCirculoConRadio2() {
 		Circulo miCirculo = new Circulo(2.0);
-		
 		assertEquals(2.0, miCirculo.getRadio(), 0.01);
 	}
 	
