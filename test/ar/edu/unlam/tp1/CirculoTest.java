@@ -9,7 +9,7 @@ public class CirculoTest {
 	
 	@Test
 	public void crearUnCirculoConRadio2() {
-		fail("Not yet implemented");
+		fail("ddfdfdfd");
 	}
 	
 	@Test
